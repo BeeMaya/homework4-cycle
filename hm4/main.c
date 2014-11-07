@@ -95,7 +95,7 @@ int multiply_Odd_13 () ///// task 5
 }
 
 
-void sum_5_7 (int m, int n)
+void sum_5_7 (int m, int n)   //// task 6
 {
     int b=0;
     int a=m;
